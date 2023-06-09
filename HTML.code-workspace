@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/img-20220923T191122Z-001"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
